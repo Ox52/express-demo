@@ -2,8 +2,8 @@ const sum (a,b)=>{
     return a+b;
 }
 
-const ans = sum(1,3)
-console.log(ans)
+const anss = sum(1,3)
+console.log(anss)
 
 
  const input = [1,2,3,4,5];
@@ -14,11 +14,11 @@ console.log(ans)
  }
 
 
-  const ans = input.map(function (a) {
+  const ansss = input.map(function (a) {
     return a * 2;
   });
 
-  console.log(ans)
+  console.log(ansss)
 
  const num = [2,3,4,5,6];
 
